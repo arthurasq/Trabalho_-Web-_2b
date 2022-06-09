@@ -1,6 +1,6 @@
-# TRABALHO
-Nome: Arthur Abreu 
-Turma: CC1mb
+# TRABALHO (Construção de Software para Web)
+* Nome: Arthur Abreu 
+* Turma: CC1mb
 
 ## Processos Realizados em JS(Javascript)
 
